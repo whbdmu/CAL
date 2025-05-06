@@ -1,5 +1,8 @@
 # IJCAI-2025-Consensus-Guided Incomplete Multi-view Clustering via Cross-view Affinities Learning (CAL)
-#If you have any questions please contact (huibing.wang@dlmu.edu.cn) and (lq0307@dlmu.edu.cn).
+
+### [Paper]()
+This repository is the official code for the paper "Consensus-Guided Incomplete Multi-view Clustering via Cross-view Affinities Learning" by Qian Liu(lq0307@dlmu.edu.cn), Huibing Wang(huibing.wang@dlmu.edu.cn), Jinjia Peng, Yawei Chen, Mingze Yao, Xianping Fu, Yang Wang. Proceedings of
+the Thirty-Fourth International Joint Conference on Artificial Intelligence, IJCAI-25.
 
 ## Introduction
 In this paper, we propose a novel Consensus-Guided Incomplete Multi-view Clustering via Cross-view Affinities Learning (CAL). Specifically, CAL reconstructs views with available instances to mine sample-wise affinities and harness comprehensive content information within views. Subsequently, to extract clean structural information, CAL imposes a structured sparse constraint on the representation tensor to eliminate biased errors. Furthermore, by integrating the consensus representation into a tensor stacked by view-specific affinity representations, CAL employs high-order interaction of multiple views to depict the semantic correlation between views while learning a unified structural graph across multiple views. Extensive experiments on several benchmark datasets demonstrate that CAL outperforms some state-of-the-art methods in clustering performance.
