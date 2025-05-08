@@ -28,7 +28,7 @@ If any part of our paper and repository is helpful to your work, please generous
 @article{Liu2025CAL,
       title={Consensus-Guided Incomplete Multi-view Clustering via Cross-view Affinities Learning}, 
       author={Qian Liu, Huibing Wang, Jinjia Peng, Yawei Chen, Mingze Yao, Xianping Fu, Yang Wang},
-      booktitle = {Proceedings of the Thirty-Third International Joint Conference on
+      booktitle = {Proceedings of the Thirty-Fourth International Joint Conference on
                Artificial Intelligence, {IJCAI-25}},
       publisher = {International Joint Conferences on Artificial Intelligence Organization},
       year={2025}
