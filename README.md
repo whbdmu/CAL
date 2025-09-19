@@ -1,6 +1,6 @@
 # IJCAI-2025-Consensus-Guided Incomplete Multi-view Clustering via Cross-view Affinities Learning (CAL)
 
-### [Paper]()
+### [Paper](https://www.ijcai.org/proceedings/2025/641)
 This repository is the official matlab implementation for the paper "Consensus-Guided Incomplete Multi-view Clustering via Cross-view Affinities Learning" by Qian Liu (lq0307@dlmu.edu.cn), Huibing Wang (huibing.wang@dlmu.edu.cn), Jinjia Peng, Yawei Chen, Mingze Yao, Xianping Fu, Yang Wang. Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence, IJCAI-25.
 
 ## Introduction
