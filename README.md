@@ -25,12 +25,18 @@ In this paper, we propose a novel Consensus-Guided Incomplete Multi-view Cluster
 If any part of our paper and repository is helpful to your work, please generously cite with:
 
 ```
-@article{Liu2025CAL,
-      title={Consensus-Guided Incomplete Multi-view Clustering via Cross-view Affinities Learning}, 
-      author={Liu, Qian and Wang, Huibing and Peng, Jinjia and Chen, Yawei and Yao, Mingze and Fu, Xianping and Wang, Yang},
-      booktitle = {Proceedings of the Thirty-Fourth International Joint Conference on
+@inproceedings{ijcai2025p641,
+  title     = {Consensus-Guided Incomplete Multi-view Clustering via Cross-view Affinities Learning},
+  author    = {Liu, Qian and Wang, Huibing and Peng, Jinjia and Chen, Yawei and Yao, Mingze and Fu, Xianping and Wang, Yang},
+  booktitle = {Proceedings of the Thirty-Fourth International Joint Conference on
                Artificial Intelligence, {IJCAI-25}},
-      publisher = {International Joint Conferences on Artificial Intelligence Organization},
-      year={2025}
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {James Kwok},
+  pages     = {5761--5769},
+  year      = {2025},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2025/641},
+  url       = {https://doi.org/10.24963/ijcai.2025/641},
 }
 ```
